@@ -3,7 +3,7 @@
 > Um dos primeiros projetos de finalização de curso da Freecodecamp 
 
 # Objetivo 
-> Construir no Codepen.io uma pagina similiar a [<a src="https://codepen.io/freeCodeCamp/full/zNqgVx">esta pagina</a>] seguindo alguns parametros 
+> Construir no Codepen.io uma pagina similiar a <a src="https://codepen.io/freeCodeCamp/full/zNqgVx">esta pagina</a> seguindo alguns parametros 
 
 
 *User Story #1*: My tribute page should have an element with a corresponding id="main", which contains all other elements.
